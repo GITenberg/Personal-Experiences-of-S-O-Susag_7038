@@ -1,0 +1,22 @@
+_repo: Personal-Experiences-of-S-O-Susag_7038
+creator:
+  author:
+    agent_name: Susag, S. O.
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '2318'
+    url: http://www.gutenberg.org/2009/agents/2318
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evangelists -- Biography'
+- !lcc 'BV'
+title: Personal Experiences of S. O. Susag
+url: http://www.gutenberg.org/ebooks/7038
